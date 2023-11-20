@@ -23,7 +23,7 @@ const App = () => {
   return (
     <div>
         {/* Do not remove the main div */}
-        The mouse Pointer is: {data.x+','+data.y}
+        The mouse Pointer is: {data.x+', '+data.y}
     </div>
   )
 }
